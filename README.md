@@ -1,3 +1,5 @@
+[![GitHub Streak](https://git-hub-streak-stats.vercel.app?user=mavxa&theme=react&hide_border=true&border_radius=0&date_format=j%2Fn%5B%2FY%5D)](https://git.io/streak-stats)
+
 ### Frontend Technologies
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
