@@ -1,23 +1,45 @@
-[![GitHub Streak](https://git-hub-streak-stats.vercel.app?user=mavxa&theme=react&hide_border=true&border_radius=0&date_format=j%2Fn%5B%2FY%5D)](https://git.io/streak-stats)
+<div align="center">
+  <h1 align="center">Hi, I'm Nikita (mavxa) 👋</h1>
+  <h3 align="center">Fullstack Developer from Russia 🇷🇺</h3>
+  
+  <p align="center">
+    Building scalable web applications with a focus on performance, DX, and clean architecture.<br>
+    Currently mastering <b>Rust</b> and strict typing.
+  </p>
+  
+  <a href="https://mavxa.ru">
+    <img src="https://img.shields.io/badge/Portfolio-mavxa.ru-white?style=for-the-badge&logo=google-chrome&logoColor=black" alt="Website">
+  </a>
+  
+  <a href="mailto:mavxa@duck.com">
+    <img src="https://img.shields.io/badge/Contact-Email-333?style=for-the-badge&logo=mail.ru&logoColor=white" alt="Email">
+  </a>
 
-### Frontend Technologies
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+</div>
 
-### UI Frameworks
-![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+### 🛠 Tech Stack
 
-### Backend & Tools
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078D7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+<div align="center">
 
-  ### My CV 
-  *https://cv-mavxa.vercel.app*
+| Core | Backend & Systems | DevOps & Tools |
+| :---: | :---: | :---: |
+| ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white) | ![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) |
+| ![React](https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=react&logoColor=61DAFB) | ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white) | ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) |
+| ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white) | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white) | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) |
+| ![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white) | ![Bun](https://img.shields.io/badge/Bun-000000?style=for-the-badge&logo=bun&logoColor=white) | ![Zed](https://img.shields.io/badge/Zed-000000?style=for-the-badge&logo=zed&logoColor=white) |
+
+</div>
+
+### 📊 GitHub Stats
+
+<div align="center">
+  <a href="https://github.com/mavxa">
+    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=mavxa&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117" />
+    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mavxa&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&langs_count=6" />
+  </a>
+</div>
+
+<div align="center">
+  <br>
+  <img src="https://git-hub-streak-stats.vercel.app?user=mavxa&theme=dark&hide_border=true&background=0d1117&ring=FEF08A&fire=FEF08A&currStreakLabel=FEF08A" alt="GitHub Streak" />
+</div>
