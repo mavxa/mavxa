@@ -17,8 +17,6 @@
 
 </div>
 
-### 🛠 Tech Stack
-
 <div align="center">
 
 | Core | Backend & Systems | DevOps & Tools |
@@ -28,18 +26,4 @@
 | ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white) | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white) | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) |
 | ![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white) | ![Bun](https://img.shields.io/badge/Bun-000000?style=for-the-badge&logo=bun&logoColor=white) | ![Zed](https://img.shields.io/badge/Zed-000000?style=for-the-badge&logo=zed&logoColor=white) |
 
-</div>
-
-### 📊 GitHub Stats
-
-<div align="center">
-  <a href="https://github.com/mavxa">
-    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=mavxa&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117" />
-    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mavxa&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&langs_count=6" />
-  </a>
-</div>
-
-<div align="center">
-  <br>
-  <img src="https://git-hub-streak-stats.vercel.app?user=mavxa&theme=dark&hide_border=true&background=0d1117&ring=FEF08A&fire=FEF08A&currStreakLabel=FEF08A" alt="GitHub Streak" />
 </div>
