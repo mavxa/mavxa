@@ -6,7 +6,14 @@ fullstack developer
 building fast web apps with strict typing and clean architecture.  
 currently mastering rust.
 
-![bun](./bun.JPG)
+---
+
+<details>
+<summary>micro bun.</summary>
+
+![bun](./bun.jpg)
+
+</details>
 
 ---
 
