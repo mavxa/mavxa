@@ -6,6 +6,8 @@ fullstack developer
 building fast web apps with strict typing and clean architecture.  
 currently mastering rust.
 
+![bun](./bun.JPG)
+
 ---
 
 `typescript` `react` `next.js` `tailwind` `node.js` `rust` `postgresql` `docker` `bun` `linux`
