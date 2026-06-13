@@ -21,4 +21,4 @@ currently mastering rust.
 
 ---
 
-[mavxa.ru](https://mavxa.ru) · [telegram](https://t.me/mavxa) · [mavxa@duck.com](mailto:mavxa@duck.com)
+[mavxa.ru](https://mavxa.ru) · [telegram](https://t.me/mavxas) · [mavxa@duck.com](mailto:mavxa@duck.com)
